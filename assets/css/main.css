@@ -2,6 +2,14 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Scope+One|Trocchi");
 
+/*Custom by Brooks*/
+	#gdoc {
+		position: absolute;
+		right: 30px;
+		top: 80px;
+		z-index: 10;
+	}
+
 /*
 	Urban by TEMPLATED
 	templated.co @templatedco
